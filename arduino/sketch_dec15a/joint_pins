@@ -1,0 +1,6 @@
+  shoulder.attach(8);
+  elbow.attach(2);
+  wrist.attach(4);
+  wristRot.attach(3);
+  base.attach(7);
+  hand.attach(6);	
